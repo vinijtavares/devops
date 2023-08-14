@@ -55,7 +55,7 @@ spec:
         # - --log.level=debug
 
         # Let's Encrypt Configurtion.
-        - --certificatesresolvers.default.acme.email=<SEU_EMAIL>
+        - --certificatesresolvers.default.acme.email=928086@pm.sc.gov.br
         - --certificatesresolvers.default.acme.storage=acme.json
         - --certificatesresolvers.default.acme.tlschallenge
         # Use the staging ACME server. Uncomment this while testing to prevent
